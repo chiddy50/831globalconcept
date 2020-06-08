@@ -1,0 +1,13 @@
+---
+Name: mytheme
+---
+SilverStripe\View\SSViewer:
+  themes:
+    - '$public'
+    - 'global'
+    - '$default'
+
+SilverStripe\i18n\i18n:
+  default_locale: 'en_US'
+
+
